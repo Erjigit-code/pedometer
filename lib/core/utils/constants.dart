@@ -1,0 +1,2 @@
+const String STEP_COUNT_KEY = 'STEP_COUNT_KEY';
+const String STEP_GOAL_KEY = 'STEP_GOAL_KEY';
